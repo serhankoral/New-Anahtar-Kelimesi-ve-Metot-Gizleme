@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>New_Anahtar_Kelimesi_ve_Metot_Gizleme</RootNamespace>
+  </PropertyGroup>
+
+</Project>
